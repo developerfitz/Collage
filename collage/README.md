@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -43,10 +42,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# Collage
-
-This is a site I am using to try out different things while using the tools I have learned.
-
-Nothing more than a personal sandbox.
->>>>>>> 8a196f5d991fa5b9b3b3ea4fcec3c47c4ccdfc36
