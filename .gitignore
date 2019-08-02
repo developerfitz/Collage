@@ -1,19 +1,14 @@
-<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
-=======
-# See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# vscode
+
+# VScode
 .vscode/
 
-# dependencies
-/node_modules
->>>>>>> 8a196f5d991fa5b9b3b3ea4fcec3c47c4ccdfc36
 
 # testing
 /coverage
@@ -21,14 +16,12 @@
 # production
 /build
 
-<<<<<<< HEAD
 # firebase
 .firebase/
 .firebaserc
 firebase.json
 
-=======
->>>>>>> 8a196f5d991fa5b9b3b3ea4fcec3c47c4ccdfc36
+
 # misc
 .DS_Store
 .env.local
@@ -39,8 +32,6 @@ firebase.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-<<<<<<< HEAD
-=======
 
 yarn.lock
->>>>>>> 8a196f5d991fa5b9b3b3ea4fcec3c47c4ccdfc36
+
